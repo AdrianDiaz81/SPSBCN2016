@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "sps-barcelona-demo-client-side-solution",
+    "id": "31c13f42-fc73-4020-8799-08390afcb6a8",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/sps-barcelona-demo.spapp"
+  }
+}

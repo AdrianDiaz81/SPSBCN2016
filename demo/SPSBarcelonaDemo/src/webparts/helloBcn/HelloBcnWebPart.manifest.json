@@ -1,0 +1,19 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "2ff45cbd-b537-49d6-9bc0-eabf5d7a9649",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "2ff45cbd-b537-49d6-9bc0-eabf5d7a9649",
+    "group": { "default": "Under Development" },
+    "title": { "default": "HelloBCN" },
+    "description": { "default": "dasd" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "HelloBCN"
+    }
+  }]
+}

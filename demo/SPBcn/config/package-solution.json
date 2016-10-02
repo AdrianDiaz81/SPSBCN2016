@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "sp-bcn-client-side-solution",
+    "id": "2069a62a-b79e-450b-b29e-076fed4f90c9",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-bcn.spapp"
+  }
+}
